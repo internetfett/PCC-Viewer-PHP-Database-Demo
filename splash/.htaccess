@@ -1,0 +1,9 @@
+<Files ~ "\.php$">
+  AcceptPathInfo on
+</Files>
+
+# We set upload_max_filesize and post_max_size to 1GB to allow for
+# large file uploads from the splash page. For a production site,
+# these values may need to be lowered to a more reasonable value.
+php_value upload_max_filesize "1000M"
+php_value post_max_size "1000M"
