@@ -39,8 +39,8 @@ foreach ($templateFiles as $filepath) {
     <script src="viewer-assets/js/html5shiv.js"></script>
     <![endif]-->
 
-    <script src="//pcc-assets.accusoft.com/viewer.js"></script>
-    <script src="//pcc-assets.accusoft.com/viewercontrol.js"></script>
+    <script src="//pcc-assets.accusoft.com/v10.3/js/viewer.js"></script>
+    <script src="//pcc-assets.accusoft.com/v10.3/js/viewercontrol.js"></script>
 
     <!-- Configuration information used for this sample. -->
     <script src="sample-config.js"></script>
